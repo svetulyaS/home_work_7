@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home work 7</string>
+    <string name="for_students">for students</string>
+    <string name="for_parents">for parents</string>
+    <string name="basic_information">basic information</string>
+    <string name="welcome">Welcome</string>
+</resources>
